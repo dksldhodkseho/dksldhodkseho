@@ -78,12 +78,8 @@
 
 ## 📩 Contact
 <p>
-  <a href="mailto:syt07203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/u_chan09">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  #### 010-8181-5796
+  #### mryongju@gmail.com
 </p>
 
 
