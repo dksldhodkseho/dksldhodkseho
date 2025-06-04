@@ -78,9 +78,13 @@
 
 
 ## 📩 Contact
-<p>
-  #### 010-8181-5796
-  #### mryongju@gmail.com
+<p align="left">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@mryongju" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
 </p>
 
 
