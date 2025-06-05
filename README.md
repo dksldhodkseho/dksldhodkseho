@@ -4,6 +4,7 @@
 - **7th KT Aivle School** (Mar. 2025 - Sep. 2025) 🖥️
 ---
 
+
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dksldhodkseho&layout=compact&langs_count=8&theme=default)
