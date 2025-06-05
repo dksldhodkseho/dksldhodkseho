@@ -5,9 +5,9 @@
 ---
 
 ## 📊 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dksldhodkseho&layout=compact&langs_count=8&theme=radical" />
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=default)
+
 
 ## 🛠 Skills I've used
 ### 💻 Programming Languages & Core Technologies  
