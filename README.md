@@ -6,7 +6,7 @@
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dksldhodkseho&layout=compact&langs_count=6&theme=default)
 
 
 ## 🛠 Skills I've used
