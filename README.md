@@ -5,7 +5,7 @@
 ---
 
 
-## 📊 Most Used Language
+## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dksldhodkseho&layout=compact&langs_count=8&theme=default&cache_seconds=14400)
 
