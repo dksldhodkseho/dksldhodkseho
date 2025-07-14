@@ -1,4 +1,4 @@
-## 🧑🏻‍💻 About M
+## 🧑🏻‍💻 About Me
 - **지용주** (2000.09.09) - Data Analyst & AI Developer 🚀  
 - 🎓 **Hanshin University** (Mar. 2019 - Feb. 2025), Major in **Computer Engineering** 🖥️
 - **7th KT Aivle School** (Mar. 2025 - Sep. 2025) 🖥️
